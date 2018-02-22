@@ -4,7 +4,7 @@ function MutualInhibitionToolkit
 % Paper: http://www.calebstrait.com/Strait-etal-PLoS-Bio-2015.pdf
 % Repo: https://github.com/calebstrait/StagOps/MutualInhibitionToolkit.m
 %
-% How do you decide whether or not click ?buy? using a network of
+% How do you decide whether or not click buy using a network of
 % cells? Somehow your brain can compile everything you know about a
 % product and its competitors into a categorical decision.
 %
